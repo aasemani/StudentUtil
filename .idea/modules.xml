@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudentLevel.iml" filepath="$PROJECT_DIR$/.idea/modules/StudentLevel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudentLevel_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StudentLevel_main.iml" group="StudentLevel" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudentLevel_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StudentLevel_test.iml" group="StudentLevel" />
+      <module fileurl="file://$PROJECT_DIR$/StudentUtil.iml" filepath="$PROJECT_DIR$/StudentUtil.iml" />
+    </modules>
+  </component>
+</project>
